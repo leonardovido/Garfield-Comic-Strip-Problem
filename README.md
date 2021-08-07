@@ -8,7 +8,7 @@
 
 This project addresses a variation on the Garfield comic problem. That is, to re-orientate the comic and place all instances of Garfield on a blackened background, while retaining foreground elements so that the comic remains readable.
 
-A four-stage solution is proposed: re-orientate the comic and crop the image to the comic; find the frames of the comic; detect if Garfield is present in each frame; and to blacken the background of Garfield in the frame if Garfield is present. (See pptx file)
+A four-stage solution is proposed: re-orientate the comic and crop the image to the comic; find the frames of the comic; detect if Garfield is present in each frame; and to blacken the background of Garfield in the frame if Garfield is present. (See Garfield Comic Strip Problem.pdf file)
 
 The solution employs are broad range of image processing techniques which include: Thresholding, Morphological Operations, 1D Feature Extraction, Canny Edge Detection, Unsupervised Machine Learning and the application of Masks and Overlays.
 
